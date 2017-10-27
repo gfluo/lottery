@@ -9,6 +9,8 @@
   "author": "zoroshow@outlook.com",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "moment": "^2.19.1",
     "mysql": "^2.15.0",
     "node-schedule": "^1.2.5"
   }
